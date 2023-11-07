@@ -1,0 +1,5 @@
+Student_id : 2313110567
+Student Name : Phichakon Dumsawat
+Major : IT
+Level : 1
+Faculty : Information Technologys
