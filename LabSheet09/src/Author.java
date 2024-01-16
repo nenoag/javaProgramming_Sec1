@@ -13,10 +13,13 @@ public class Author {
 	public Author(String name, String email){
 		this.name = name;
 		this.email = email;
+		this.gender = '';
 	}
 	
 	public Author() {
-		
+		this.name = "";
+		this.email = "";
+		this.gender = '';
 	}
 	
 	public String getName() {
